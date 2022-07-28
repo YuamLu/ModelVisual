@@ -76,17 +76,8 @@ class ModelVisual:
             if nodes[i][0] == layer:
                 return str(nodes[i][1]).replace('(', '').replace(')', '').replace(' ', '')
 
-    def del_last_char(self, x: str, y: str):
-
-        d = 0
-        for i in range(len(x)):
-            if x[i] ==y:d = i
-        return x[:d]
-
     def flowchart_conn(self,name_1: str,shape_1: str,name_2: str,shape_2: str):
 
-        name_1 = self.del_last_char(name_1,'_') # layers name may include times, to help it be more readable, we need to remove it
-        name_2 = self.del_last_char(name_2,'_')
         self.flowchart_codes.append(name_1+r'\n'+shape_1+' --- '+name_2+r'\n'+shape_2)
 
     # generate ---------------------------------------------------------------------------------------------------------------------
