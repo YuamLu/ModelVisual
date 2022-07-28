@@ -20,7 +20,6 @@
     - [Create object](#create-object)
     - [Run and get result](#run-and-get-result)
   - [APIs](#apis)
-  - [Author - YuAn_Lu(盧禹安)](#author---yuan_lu盧禹安)
 
 ## Demo
 
@@ -79,9 +78,3 @@ set_chart_stroke_width(): # set the chart stroke width
 set_model(): # set the keras model
 
 ```
-
-## Author - YuAn_Lu(盧禹安)
-
-A 15 years Taiwanese.[FaceBook](https://www.facebook.com/profile.php?id=100038328462806)
-
-![YuAN Lu](Images/Author.jpg)
