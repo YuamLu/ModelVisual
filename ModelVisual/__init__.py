@@ -3,7 +3,7 @@ import tensorflow as tf
 
 class ModelVisual:
 
-    def __init__(self, model, name: str = 'ModelVisual.html', path: str = '',chart_fill_color: str = '#00ff00', chart_stroke_color: str = '#00ff00', chart_stroke_width: int = 3):
+    def __init__(self, model, name: str = 'ModelVisual.html', path: str = '',chart_fill_color: str = '#398AB9', chart_stroke_color: str = '#398AB9', chart_stroke_width: int = 3):
         self.model = model
         self.name = name
         self.path = path
