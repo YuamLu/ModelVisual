@@ -35,7 +35,7 @@ This is the suite's demo. Suite will generate a web page that include a chart.
 First,install the suite by using pip.
 
 ```
-pip install model-visual
+pip install Model-Visual
 ```
 
 ### Create object
