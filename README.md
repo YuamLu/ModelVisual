@@ -45,7 +45,7 @@ Then,creat an object and set some parameter.
 Test is the name of an object, you can take any name you want. And model is your keras model's name.(Notice: the model has to be compiled)
 
 ```
-from model_visual import ModelVisual
+from ModelVisual import ModelVisual
 
 test = ModelVisual(model)
 ```
