@@ -2,7 +2,6 @@
 
 ![GitHub](https://img.shields.io/github/license/YuamLu/ModelVisual)
 ![GitHub](https://img.shields.io/badge/powered%20by-YuAN%20Lu-orange)
-![Github stars](https://img.shields.io/github/stars/YuamLu/ModelVisual.svg)
 ![PyPI](https://img.shields.io/pypi/v/Model-Visual)
 
 ⭐ Star us on GitHub — it motivates us a lot!
